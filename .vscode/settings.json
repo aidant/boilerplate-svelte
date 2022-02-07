@@ -5,7 +5,7 @@
   },
   "svelte.plugin.svelte.format.config.printWidth": 100,
   "svelte.plugin.svelte.format.config.singleQuote": true,
-  "typescript.preferences.importModuleSpecifierEnding": "js",
-  "javascript.preferences.importModuleSpecifierEnding": "js",
+  "typescript.preferences.importModuleSpecifierEnding": "minimal",
+  "javascript.preferences.importModuleSpecifierEnding": "minimal",
   "files.insertFinalNewline": true
 }

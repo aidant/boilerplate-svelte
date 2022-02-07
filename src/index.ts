@@ -3,6 +3,6 @@ import './style.css'
 
 addEventListener('load', () => {
   new Application({
-    target: document.querySelector('#application')
+    target: document.querySelector('#application'),
   })
 })
